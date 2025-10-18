@@ -13,3 +13,25 @@ The Brickyard Restaurant in Wrenshall was built by the community to honor the to
 </li><li> Local history: The building itself is constructed with the iconic yellow bricks from the original brickyards, just like the First Presbyterian Church.
 </li><li> A lasting tribute: The restaurant's name is a direct nod to the brick industry that was the lifeblood of Wrenshall for decades, and the town continues to celebrate this legacy with its annual Brickyard Days festival. 
 </li>
+<h2>Partial Menu</h2>
+
+Breakfast
+- [ ] Biscuits and gravy 
+- [ ] Hash browns, eggs, sausage and bread
+- [ ] Pancakes 
+- [ ] Omelette; Ham squares, hash browns, nacho like cheese
+
+Lunch 
+- [ ] Homemade soups; Wild rice soup
+- [ ] Chili
+- [ ] Sandwiches
+
+Dinner
+- [ ] Ribs
+- [ ] Chicken fried steak, Mashed potatoes
+- [ ] Stir fry (teriyaki sauce, browned beef, veggies like carrots, broccoli, or a bag of mixed veggies over rice)
+- [ ] Pizza
+
+Dessert
+- [ ] Freshly baked pies; strawberry rhubarb 
+- [ ] Coffee cake; cheesecake
